@@ -1,2 +1,1 @@
-# LAP_Aalborg
-LAP Aalborg
+View website here: https://zuelow.github.io/LAP-Aalborg/ 
